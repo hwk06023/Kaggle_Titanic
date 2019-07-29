@@ -12,8 +12,5 @@ import missingno as msno
 import warnings
 warnings.filterwarnings('ignore')
 
-%matplotlib inline
-
-
 df_train = pd.read_csv('../input/train.csv')
 df_test = pd.read_csv('../input.test.csv')

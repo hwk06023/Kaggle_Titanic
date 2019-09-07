@@ -15,9 +15,10 @@ Data Science, Machine Learning을 공부하시는 분들은 Kaggle에 대해서 
 
 https://www.kaggle.com/c/titanic 에서 직접 참여해보세요!
 
+## My Notebook
 
-## My Model
-<br/><br/><br/>
+https://www.kaggle.com/arains/titanic
+
 
 
 ## Tutorial

@@ -19,6 +19,7 @@ https://www.kaggle.com/c/titanic 에서 직접 참여해보세요!
 
 https://www.kaggle.com/arains/titanic
 
+더욱 다양한 모델을 사용해보고 싶으시다면 Scikit-learn을 공부해보세요!
 
 
 ## Tutorial
